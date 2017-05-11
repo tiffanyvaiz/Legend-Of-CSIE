@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ctrl_UDLR" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Ctrl_UDLR::control" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Ctrl_UDLR.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAA=</HashCode>
+      <FileName>Ctrl_UDLR.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Cha" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAARAAAAAABAAAAFgAAAAAAAIAAAAAgABChAAAAAA=</HashCode>
+      <FileName>Data_Cha.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_ChaEnemy" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBgBCAEAQAgAkIEYAQgAAAABABAAEwAAAgAAAAAAA=</HashCode>
+      <FileName>Data_ChaEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_ChaMas" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEKsAACCgAsAyQAEAAYEgEAIQQAECpAAMQUCACBAFoM=</HashCode>
+      <FileName>Data_ChaMas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_ChaMasDog" Collapsed="true">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAEAAAIAIAQAAAAIAAAAAAQAAAAAAAAQAgCAIAAA=</HashCode>
+      <FileName>Data_ChaMasDog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_ChaMasSor" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAIAAAQEAAAAAAAAAATAAAAAAAAQAgCAIAAA=</HashCode>
+      <FileName>Data_ChaMasSor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_NPC" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAAAAAAQIAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Data_NPC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Random" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAgAAAASAAAgAAAAFAAAAAAAAAAAgAAAAACIAA=</HashCode>
+      <FileName>Data_Random.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Fighting" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAQAAAAAAgJEAAggAIACAAgABAAkgQAEQAACAEA=</HashCode>
+      <FileName>Main_Fighting.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Menu">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgBAAAAABAAAAAIAAAAACAAAAAAA=</HashCode>
+      <FileName>Main_Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_State">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Start" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="End" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Story" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAABAAAAAAAAAAAQAAAAACAAAAAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map1" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACAAABAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map2" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAAAIAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Question" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAIAAAA=</HashCode>
+      <FileName>Main_State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI_Color" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="UI_Color::basicUI_Color" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UI_Color.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAgAAAAAAAAAQAAAAAAACAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>UI_Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI_Dialogue" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>UI_Dialogue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI_Draw" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAoAAgQAAAAAAACAAAAAAAAAAAAAAACAAAAAAAABCAE=</HashCode>
+      <FileName>UI_Draw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI_Menu" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAICAAAkICQAABAAIgGACCAAAQIAAABAIAQAYCAA=</HashCode>
+      <FileName>UI_Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei" Size="9" />
+</ClassDiagram>
